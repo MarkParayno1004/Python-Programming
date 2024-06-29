@@ -5,13 +5,15 @@ Order of Operations
 > multiplication or division
 > addition or subtraction 
 """
-x = 10 + 3 * 2
+order_of_operations = 10 + 3 * 2
+
+print(f"This will print the equation using order of operations: {order_of_operations}")
 
 #Parenthesis 
 """ 
 adding parenthesis will change the order of operations,
 it takes priority.
 """
-y = (10 + 3) * 2 ** 2 + 10 - 3
+parenthesis_equation = (10 + 3) * 2 ** 2 + 10 - 3
 
-print(y)
+print(f"This will print the equation with parenthesis {parenthesis_equation}")

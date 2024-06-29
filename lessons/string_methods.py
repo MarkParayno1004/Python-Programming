@@ -1,3 +1,4 @@
+#This are string methods that can be helpful in future projects.
 course = "Python's for Beginners"
 
 print(len(course))
